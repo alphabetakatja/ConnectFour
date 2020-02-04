@@ -9,9 +9,9 @@ In this game players take turns dropping their pieces into one of seven columns 
 The first player to get their pieces into four slots that are vertically, horizontally, or diagonally contiguous wins the game.
 
 ## Features
-The gameplay involves two animations: when a player wins, it is visually indicated which four pieces on the board satisfied the victory condition and a message appears to announce the victory
+The gameplay involves two animations: when it's a players turn the profile picture and the name of the player turn to red. Also, when a player wins, it is visually indicated which four pieces on the board satisfied the victory condition and before a victory message, all the slots on the board change into the winners logo.
 
-After a player wins, it is possible to reset the game and play again
+After a player wins, it is possible to reset the game and play again.
 
 Technologies
 * HTML
